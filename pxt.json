@@ -1,5 +1,6 @@
 {
     "name": "Globos 1 player",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*",
